@@ -54,7 +54,7 @@ Access follows the scopes you approve at sign-in. Claude/Cursor will ask before 
 
 ## Docs
 
-- Product / setup (Claude guide also covers the same MCP URL): [EngageBay for Claude](https://www.engagebay.com/product/mcp/cursor)
+- Product / setup (Cursor guide also covers the same MCP URL): [EngageBay for Cursor](https://www.engagebay.com/product/mcp/cursor)
 - Privacy: [Privacy Policy](https://www.engagebay.com/legal/privacy-policy)
 - Terms: [Terms of Service](https://www.engagebay.com/legal/terms-of-service)
 - Website: [engagebay.com](https://www.engagebay.com)
